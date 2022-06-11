@@ -1,0 +1,22 @@
+? /Users/jiatuoz/Documents/Haskell/cs421-mp2/mps/mp2-interpreter/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/friendly-test/autogen/cabal_macros.h
+: hash: 2c56111d57e1bfebdbc8735d9222871387e9b38e02253d5d60ab1a6e6a6e6fd4
+? /Users/jiatuoz/Documents/Haskell/cs421-mp2/mps/mp2-interpreter/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/friendly-test/autogen/Paths_interpreter.hs
+: hash: 02abb808db1b1314e044b5594e342f41ff2849576c8f25285dfef17ccc364bcc
+/Users/jiatuoz/Documents/Haskell/cs421-mp2/mps/mp2-interpreter/test/StmtGens.hs:
+  hash: 1a7b84c3f822ebd7f660526038841a0e47086bd55ab9c34872a8652d26c3bfaf
+/Users/jiatuoz/Documents/Haskell/cs421-mp2/mps/mp2-interpreter/README.md:
+  hash: 5ad17a688bd5ca17b516be2854f8770405b25dc221c9d9313b133101bbc852c4
+/Users/jiatuoz/Documents/Haskell/cs421-mp2/mps/mp2-interpreter/test/ExpGens.hs:
+  hash: 8c86897bf6dcc636b51929d0f68fbc19339801276a01d42b1b147ff13cc040f5
+/Users/jiatuoz/Documents/Haskell/cs421-mp2/mps/mp2-interpreter/interpreter.cabal:
+  hash: 90c657d01fc18a86a1437f5fa3473d31e3602f957a577a5387fa4cfe69ef9b26
+/Users/jiatuoz/Documents/Haskell/cs421-mp2/mps/mp2-interpreter/test/UnitTests.hs:
+  hash: 25ec14904ed3cad1b31d85b52759a11e2aea5f83ec899e23a76dbf05f1f6fec4
+/Users/jiatuoz/.stack/programs/x86_64-osx/ghc-8.10.7/lib/ghc-8.10.7/include/ghcversion.h:
+  hash: c013160c9aa8a98f4638616496dce720c23ceca8ef9d6b3212b654642fbda5e4
+/Users/jiatuoz/Documents/Haskell/cs421-mp2/mps/mp2-interpreter/package.yaml:
+  hash: 25417f051119d8b0de10e6aa4444735d57e55e0925f6742cda6f536d2f211b72
+/Users/jiatuoz/Documents/Haskell/cs421-mp2/mps/mp2-interpreter/test/PropertyTests.hs:
+  hash: 36dd4a76e932ed71975a65d7fa1182ebfc5adc53b142d85ceae8eac9301db947
+/Users/jiatuoz/Documents/Haskell/cs421-mp2/mps/mp2-interpreter/test/friendly/FriendlySpec.hs:
+  hash: 29759ea8b601e22c9b2a6f1f41157a161dc9ef9f476ebd497ffe13caa7d16c34
